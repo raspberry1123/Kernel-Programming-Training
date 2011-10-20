@@ -1,0 +1,1 @@
+cmd_/devel/programming/kernel/kernel_module_training/test1/mymod.ko := ld -m elf_x86_64 -r -o /devel/programming/kernel/kernel_module_training/test1/mymod.ko /devel/programming/kernel/kernel_module_training/test1/mymod.o /devel/programming/kernel/kernel_module_training/test1/mymod.mod.o

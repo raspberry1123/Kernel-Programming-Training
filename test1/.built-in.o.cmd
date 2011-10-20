@@ -1,0 +1,1 @@
+cmd_/devel/programming/kernel/kernel_module_training/test1/built-in.o :=  rm -f /devel/programming/kernel/kernel_module_training/test1/built-in.o; ar rcs /devel/programming/kernel/kernel_module_training/test1/built-in.o
